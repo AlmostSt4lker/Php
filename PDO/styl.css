@@ -1,0 +1,49 @@
+P {
+    text-align: center;
+    font-family: Luminari, fantasy;
+    font-size: large;
+}
+
+H2 { text-align: center }
+
+H1 { text-align: center }
+
+
+input[type=text]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+input[type=password]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+input[type=email]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+input[type=submit]{
+    background-color: white;
+    width: 10%;
+    padding: 5px 10px;
+    margin: 2px 0;
+
+}
+
+
+
+input:focus {
+    background-color: lightblue;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+
+input:focus[type=submit]{
+    background-color: white;
+    width: 10%;
+    padding: 5px 10px;
+    margin: 2px 0;
+}

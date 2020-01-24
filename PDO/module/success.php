@@ -1,0 +1,1 @@
+<h1> Pomyślnie utworzono konto </h1>
